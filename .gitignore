@@ -1,0 +1,16 @@
+.DS_Store
+
+lumber_bot
+lumber-bot*
+vendor
+
+# Secrets
+etc/*
+.ebextensions/*
+!etc/default-subreddits.yaml
+!etc/default-serverconf.yaml
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml

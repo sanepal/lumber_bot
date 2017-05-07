@@ -1,0 +1,9 @@
+.DS_Store
+lumber_bot
+lumber-bot*
+vendor
+bin/*
+etc/*
+!etc/serverconf.yaml
+!etc/custom-subreddits.yaml
+!etc/server.crt

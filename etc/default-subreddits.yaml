@@ -1,0 +1,19 @@
+default:
+  - EarthPorn
+  - CityPorn
+  - SpacePorn
+  - VillagePorn
+  - FirePorn
+  - SkyPorn
+  - SilhouettePorn
+  - AbandonedPorn
+  - ArchitecturePorn
+  - InfrastructurePorn
+# Custom subreddits for specific chats
+# custom:
+#   - chats:
+#       -
+#       -
+#     subreddits:
+#       -
+#       -

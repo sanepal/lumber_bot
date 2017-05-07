@@ -1,0 +1,3 @@
+package: lumber_bot
+import:
+- package: gopkg.in/yaml.v2

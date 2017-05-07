@@ -1,0 +1,9 @@
+## Required
+# username: reddit login to access API
+# password: password for reddit login
+# clientid: reddit API client id
+# clientsecret: reddit API client secret
+# bottoken: telegram bot token
+## Optional: To setup webhooks
+# servercert: public certificate for remote url
+# remote: remote URL that can process webhooks

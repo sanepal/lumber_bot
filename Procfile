@@ -1,0 +1,1 @@
+lumber_bot: /var/app/lumber_bot-src/src/lumber_bot/bin/lumber_bot -serverconf /var/app/lumber_bot-src/src/lumber_bot/etc/serverconf.yaml -subredditconf /var/app/lumber_bot-src/src/lumber_bot/etc/custom-subreddits.yaml
