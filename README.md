@@ -1,5 +1,4 @@
 # lumber_bot
---
 lumber_bot is a Telegram bot that uses the Reddit API to share visceral images
 of Earth, Space, Cities, Architecture, and more with your group.
 

@@ -25,8 +25,7 @@ type Telegram struct {
 	UserAgent string
 }
 
-// Initialize a new telegram client that performs actions on behalf of the supplied
-// bot
+// Initialize a new telegram client that performs actions on behalf of the supplied bot
 func New(botId string, userAgent string) *Telegram {
 	tr := &http.Transport{
 		MaxIdleConns:    10,

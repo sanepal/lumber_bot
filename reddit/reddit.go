@@ -26,7 +26,7 @@ type Reddit struct {
 	UserAgent    string
 }
 
-// Initializesa new Reddit client for "script" type apps that uses the supplied
+// Initializesa a new Reddit client for "script" type apps that uses the supplied
 // developer username and password, and the app's client id and secret to make
 // API calls
 func New(username string, password string, clientId string, clientSecret string, userAgent string) (*Reddit, error) {

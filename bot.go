@@ -19,7 +19,7 @@ This package allows you to setup your own bot running locally or on a remote ser
  lumber_bot -serverconf etc/serverconf -subredditconf etc/subredditconf
 
 The bot will serve a random, highly upvoted, image from the past week from the list of supplied subreddits when someone uses the "/get" command
- */
+*/
 package main
 
 import (
